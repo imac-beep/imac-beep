@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on database kernel.
+- 🌱 I’m currently learning databases, sql dialects.
+- 💬 Ask me about mysql, postgres databases.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imac-beep&count_private=true)
